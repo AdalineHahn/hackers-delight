@@ -1,4 +1,4 @@
-# src/ntzdebruijn.leo
+!!src/ntzdebruijn.leo
 
 ## Build Guide
 
@@ -34,3 +34,4 @@ https://groups.google.com/g/comp.compression.research/c/x0NaZ3CJ6O4/m/PfGuchA7o6
 
 A description of de Bruijn cycles and their use for bit indexing can be seen
 here:  http://supertech.csail.mit.edu/papers/debruijn.pdf
+ 
