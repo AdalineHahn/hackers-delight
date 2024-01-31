@@ -1,6 +1,6 @@
-# src/ntzloops.leo
+ !src/ntzloops.leo
 
-## Build Guide
+###Build Guide
 
 To compile and run this Leo program, run:
 ```bash
@@ -29,3 +29,4 @@ enough iterations to accommodate all possible inputs, and then check the
 while condition within the for loop.  Once the condition is false, the
 loop continues until finished but the `if` statement inside the loop prevents
 any further operations.
+ 
